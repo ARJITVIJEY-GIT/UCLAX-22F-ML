@@ -5,3 +5,5 @@ ipywidgets
 scikit-learn
 plotly
 yellowbrick
+seaborn
+statsmodels
