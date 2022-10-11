@@ -2,7 +2,7 @@ pandas
 numpy
 matplotlib
 ipywidgets
-scikit-learn
+scikit-learn==1.1.2
 plotly
 yellowbrick
 seaborn
