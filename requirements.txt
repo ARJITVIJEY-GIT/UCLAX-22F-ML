@@ -7,3 +7,4 @@ plotly
 yellowbrick
 seaborn
 statsmodels
+dtreeviz
