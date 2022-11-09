@@ -10,3 +10,4 @@ statsmodels
 dtreeviz
 nltk
 gensim
+tensorflow
